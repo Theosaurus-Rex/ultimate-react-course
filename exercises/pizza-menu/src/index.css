@@ -149,6 +149,10 @@ body {
   opacity: 0.8;
 }
 
+.pizza.sold-out span {
+  text-transform: uppercase;
+}
+
 /* *************** */
 
 .footer {
